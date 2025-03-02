@@ -1,0 +1,59 @@
+Hi there 👋, I'm
+
+Satish K
+
+A passionate Electronics and communication Engineering student at Vellore Institute of Technology, who love's to create designs and innovative solutions.
+
+Who is Satish K?
+
+A Bit About Me
+
+My passion for designing spans across various tools and platforms, which allows me to bring my creative ideas to life. With Figma, I focus on designing intuitive and user-friendly interfaces, ensuring that every project is not only aesthetically pleasing but also highly functional. 
+
+Beyond UI/UX design, I have a deep interest in designing PCB's using Autodesk software. Whether it's Autodesk or Eagle, I enjoy the process of creating innovative and precise designs that streamline product development. I strive to deliver unique and impactful solutions that make a difference in the world of technology and design.
+
+When I'm not occupied with my regular academics work I enjoy playing football, taking photos  watching anime, and exploring new technologies. 
+
+I Run and curate a photography page, Pen__zil, showcasing my passion for visual storytelling and creative content creation
+
+My Skills
+Technologies I Work With
+Here are some of the technologies and tools I've been working with:
+Figma 
+Eagle 
+Autodesk (PCB Design)
+photography
+Python Programming
+Java Programming
+
+
+My Projects
+
+Some Things I Built
+Here are some of the projects I've worked on:
+
+
+smart shopping cart with inbuild billing and product security system
+Designed for reducing waiting time while standing in queue and ensuring the product safety.
+(automation , sensor , microcontroller )
+
+Automated Temperature controlling ceiling fan
+designed for Collage competition as Analog circuits project
+(sensor , automation ,simulation software)
+
+Ui/Ux designer for my previous club (Code Chef) along with I have experience with photo/video/poster editing . 
+(Figma ,photoshop ,Adobe )
+
+
+Have a project? or just looking to hire?
+
+Let's Work Together
+Feel free to reach out if you're looking to hire, just want to connect, or see if we can build something amazing together.
+
+Get in touch →
+
+linkdin: https://www.linkedin.com/in/satish-k-ab30b22ba
+
+
+
+Gmail: satish09441@gmail.com
